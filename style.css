@@ -1,0 +1,14 @@
+h1.display-4 {
+    color:rgb(74, 170, 165);
+    font-weight: 500;
+    
+}
+
+body {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+img {
+    padding-right: 25px;
+}
