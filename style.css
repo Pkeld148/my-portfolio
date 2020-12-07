@@ -1,10 +1,13 @@
-.navbar-brand {
-  background-color: rgb(74, 170, 165);
-  color: white;
+.navbar-light .navbar-brand {
+    color: white;
+    background-color: rgb(74, 170, 165);
+
 }
 
 .jumbotron {
   background-color: white;
+  border-radius: 0;
+  margin-top: 80px;
 }
 
 .btn {
@@ -24,6 +27,7 @@ body {
   font-weight: 500;
 }
 
-img {
-  padding-right: 25px;
+img.portfolio {
+  padding: 15px;
+  width: 100%;
 }
